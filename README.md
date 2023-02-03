@@ -22,3 +22,5 @@ You are required to fill out all of the following sections to help us grade your
 ## Any Extra Notes?
 
 Fill in this with anything else you would like us to know about your submission.
+
+To run `pipenv shell` then `FLASK_APP=server.py flask run` 
