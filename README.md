@@ -24,3 +24,5 @@ You are required to fill out all of the following sections to help us grade your
 Fill in this with anything else you would like us to know about your submission.
 
 To run `pipenv shell` then `FLASK_APP=server.py flask run` 
+
+Durring setup, you'll need a `.env` with DATABASE_URL in it.
